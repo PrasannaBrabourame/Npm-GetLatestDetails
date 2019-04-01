@@ -1,0 +1,22 @@
+{
+  "name": "npm-getlatestdetails",
+  "version": "1.0.0",
+  "description": "Fetch details from NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasannaBrabourame/Npm-GetLatestDetails.git"
+  },
+  "author": "Prasanna Brabourame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrasannaBrabourame/Npm-GetLatestDetails/issues"
+  },
+  "homepage": "https://github.com/PrasannaBrabourame/Npm-GetLatestDetails#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
